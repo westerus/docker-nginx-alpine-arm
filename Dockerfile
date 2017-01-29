@@ -1,4 +1,4 @@
-FROM container4armhf/armhf-alpine:latest
+FROM easypi/alpine-arm
 
 MAINTAINER NGINX Docker Maintainers "westerus@gmail.com"
 
